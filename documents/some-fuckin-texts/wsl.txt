@@ -1,0 +1,4 @@
+C:\Users\20120\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\moaazelsayed
+
+
+sc config LxssManager start=auto to enable lxxmanager

@@ -1,0 +1,16 @@
+int i,score,sum=0;
+     for(i=1;i<=4;i++)
+     {
+         printf("subject%d ",i);
+         scanf("%d",score);
+         sum+=score;
+     }
+     printf("the sum is: %d",sum);
+
+
+
+
+https://www.bartleby.com/solution-answer/chapter-7-problem-715p-international-edition-engineering-mechanics-statics-4th-edition-4th-edition/9781305501607/a-stepladder-consisting-of-two-legs-pinned-together-at-c-is-resting-on-a-rough-floor-will-a-170-lb/c602b3ff-9645-11e9-8385-02ee952b546e
+
+
+https://docs.google.com/forms/u/0/d/e/1FAIpQLScMYkRR9r63V4uTToupAdjuGyhfdotIVxQBKo9UTbuQaeDgTg/formResponse

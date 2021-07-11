@@ -1,0 +1,22 @@
+ Programming:
+- A First Book of C++ Part 1(book)
+- C++ for beginners: https://www.youtube.com/playlist...
+- C++ for people with some experience in programming: https://www.youtube.com/watch?v=gU370w1A-_k...
+Algorithms & Data Structures:
+- [C++] Competitive Programming 3 (book)
+- [C++ , Java] Cracking the code interview (book)
+- [C++] Arabic Competitive Programming: https://www.youtube.com/watch?v=mURktueKdmU...
+- [C] Data Structures: https://www.youtube.com/playlist...
+- [Python] Data Structures and Algorithms Specialization: https://www.coursera.org/speci.../data-structures-algorithms
+- Introduction to Algorithms (book)
+Object Oriented Programming:
+- A First Book of C++ Part 2 (book)
+- Java: https://www.udacity.com/.../object-oriented-programming...
+Design Patterns:
+- Head First Design Patterns (book)
+- Playlist: https://www.youtube.com/watch?v=v9ejT8FO-7I...
+More:
+- Clean Code (book)
+- Code Complete (book)
+- Working Effectively with Legacy Code (book)
+ÚáÔÇä ÇáäÇÓ ãÊÊÎÖÔ Çæ ÊÍÓ Çä ÇáãæÖæÚ ßÈíÑ Çæí Ïí Çåã ÇáãÑÇÌÚ æÇäÇ ÖíİÊ ßĞÇ ÇÎÊíÇÑ áßá ÍÇÌÉ ÚáÔÇä áæ ÇäÊ ÈÊİÖá ßÊÈ Çæ İíÏíæåÇÊ Çæ ãÚÈÌÈßÔ ÇÓáæÈ ÍÇÌÉ İíåã¡ ßİÇíÉ ãÕÏÑ æÇÍÏ ãä ßá ãÌãæÚÉ ãä Ïæá æÍÇæá ÊÏí ßá ÍÇÌÉ æŞÊåÇ æÊÏÑÈ ÚáíåÇ ãÊÔİÔ ÇáİíÏíæ Çæ ÇáßÊÇÈ æÎáÇÕ áæ ÈŞíÊ ãÊãßä ãä ÇáÍÇÌÇÊ Ïí İí Çæá ÓäÊíä ÏÑÇÓÉ íÈŞì ßæíÓ ÌÏÇ æããßä ÊÚÏ İíåã ÇßÊÑ ãä ßÏå ÚÇÏí.

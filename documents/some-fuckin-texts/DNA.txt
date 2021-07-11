@@ -1,0 +1,17 @@
+DNA - 03:47
+- Open the CSV file and DNA sequence, read contents into memory.
+- For each STR, compute the longest run of consecutive repeats in the DNA sequence.
+- Compare the STR counts againts each row in the CSV file.
+OPENING THE FILES - 04:20
+- First row of CSV file has name as the first column and STRs for each of the remanining columns.
+- Each remaining row corresponds to a person.
+HINTS - 05:08
+- Python's CSV module has reader and DictReader,
+- Python's SYS module gives you access to sys.argv for command-line arguments.
+- Once opened a text file f using open(filename), read its content using f.read().
+COMPUTING STR COUNTS - 06:28
+- For each position in the sequence: compute how many times the STR repeats starting at that position.
+- For each position, keep checking successive substrings until the STR repeats no longer.
+HINTS - 07:00
+- len(s) gets the length of the string s
+- s[i:j] takes the string s and return the substring with all characters from the ith character up to (but no including) the jth.

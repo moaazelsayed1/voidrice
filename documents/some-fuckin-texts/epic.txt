@@ -1,0 +1,4 @@
+@#AGJd955
+
+C:\Users\20120\AppData\Local\Microsoft\Blend\16.0_ecfa4efa\ComponentModelCache
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
